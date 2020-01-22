@@ -20,7 +20,7 @@ class SimpleComponent extends Component {
         return (
             <div>
                 {this.state.mood}
-            </div>;
+            </div>
         )
     }
 
